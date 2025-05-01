@@ -2,7 +2,8 @@
 
 ---
 
-## Chapter 1: Start with “Why”
+## [Chapter 1: Start with "Why"](#chapter-1-start-with-why)
+
 
 > *Every programming language is just a tool. But choosing the right tool starts with knowing what you want to build.*
 
