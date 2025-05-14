@@ -4,31 +4,28 @@ A practical guide for becoming a polyglot programmer without the confusion, over
 
 ## Table of Contents
 
-### [Chapter 1: Start with "Why"](chapter-1-start-with-why.md)
+### [Chapter 1: Start with "Why"](Chapter%201%3A%20Start%20with%20"Why".md)
 > *Every programming language is just a tool. But choosing the right tool starts with knowing what you want to build.*
 
-### [Chapter 2: The Syntax Mindset](chapter-2-the-syntax-mindset.md)
+### [Chapter 2: The Syntax Mindset](Chapter%202%3A%20The%20Syntax%20Mindset.md)
 > *You don't need to memorize everything. You need to recognize patterns and learn how to think like the language.*
 
-### [Chapter 3: Learn the Core, Skip the Noise](chapter-3-learn-the-core-skip-the-noise.md)
+### [Chapter 3: Learn the Core, Skip the Noise](Chapter%203%3A%20Learn%20the%20Core%2C%20Skip%20the%20Noise.md)
 > *You don't need to learn everything. Just enough to start building. The rest comes naturally.*
 
-### [Chapter 4: Build First, Learn Along](chapter-4-build-first-learn-along.md)
+### [Chapter 4: Build First, Learn Along](Chapter%204%3A%20Build%20First%2C%20Learn%20Along.md)
 > *You don't need to wait until you're "ready." Start building. That's how you learn fast and retain more.*
 
-### [Chapter 5: Think in Multiple Languages](chapter-5-think-in-multiple-languages.md)
+### [Chapter 5: Think in Multiple Languages](Chapter%205%3A%20How%20to%20Think%20in%20Multiple%20Languages.md)
 > *You don't start from zero with every language. You carry your mindset with you — and adapt the syntax.*
 
-### [Chapter 6: Avoiding the Traps](chapter-6-avoiding-the-traps.md)
+### [Chapter 6: Avoiding the Traps](Chapter%206%3A%20Avoiding%20the%20Traps.md)
 > *You don't fail at programming because you're not smart — you fail because you got caught in one of the traps.*
 
-### [Chapter 7: Your Repeatable Learning System](chapter-7-your-repeatable-learning-system.md)
+### [Chapter 7: Your Repeatable Learning System](Chapter%207%3A%20Your%20Repeatable%20Learning%20System.md)
 > *Learning a language once is hard. Learning languages forever? That needs a system.*
 
-### Appendices
-- [Appendix A: Quick Syntax Cheat Sheet (Multi-Language)](appendices.md#appendix-a-quick-syntax-cheat-sheet-multi-language)
-- [Appendix B: Glossary](appendices.md#appendix-b-glossary)
-- [Appendix C: Starter Projects](appendices.md#appendix-c-starter-projects)
+### [Appendices](Appendices.md)
 
 ## About This Book
 
@@ -48,7 +45,7 @@ This book is designed for:
 
 ## Get Started
 
-Ready to become a polyglot programmer? Click on [Chapter 1: Start with "Why"](chapter-1-start-with-why.md) to begin your journey!
+Ready to become a polyglot programmer? Click on [Chapter 1: Start with "Why"](Chapter%201%3A%20Start%20with%20"Why".md) to begin your journey!
 
 ---
 
