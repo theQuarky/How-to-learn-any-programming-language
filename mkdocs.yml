@@ -1,0 +1,47 @@
+site_name: "How to Learn Any Programming Language"
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - content.action.edit
+    - palette.toggle
+    - palette
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+extra_javascript:
+  - js/modal.js
+extra_css:
+  - css/custom.css
+extra:
+  plausible_domain: example.com
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+nav:
+  - Home: index.md
+  - Chapter 1: Chapter 1 Start with Why.md
+  - Chapter 2: Chapter 2 The Syntax Mindset.md
+  - Chapter 3: Chapter 3 Learn the Core Skip the Noise.md
+  - Chapter 4: Chapter 4 Build First Learn Along.md
+  - Chapter 5: Chapter 5 How to Think in Multiple Languages.md
+  - Chapter 6: Chapter 6 Avoiding the Traps.md
+  - Chapter 7: Chapter 7 Your Repeatable Learning System.md
+  - Appendices: Appendices.md
