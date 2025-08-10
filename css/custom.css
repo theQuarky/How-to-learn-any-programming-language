@@ -1,0 +1,47 @@
+/* Custom modal styles */
+#custom-modal {
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.modal-overlay {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0,0,0,0.6);
+}
+.modal-content {
+  position: relative;
+  background: #fff;
+  padding: 2em;
+  border-radius: 8px;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.2);
+  z-index: 2;
+  min-width: 300px;
+}
+.modal-content h2 {
+  margin-top: 0;
+}
+.modal-content form {
+  display: flex;
+  flex-direction: column;
+}
+.modal-content input {
+  margin-bottom: 1em;
+  padding: 0.5em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.modal-content button {
+  background: #3f51b5;
+  color: #fff;
+  border: none;
+  padding: 0.7em 1.2em;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.modal-content button:hover {
+  background: #283593;
+}
