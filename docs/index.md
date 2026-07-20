@@ -65,4 +65,4 @@ Ready to become a polyglot programmer? Click on [Chapter 1: Start with Why](Chap
 
 **Contact:** [ranahiren27@gmail.com](mailto:ranahiren27@gmail.com)
 
-**Instagram:** [@ghost_particle_](https://www.instagram.com/ghost_particle_)
+**Instagram:** [@the_quark_](https://www.instagram.com/the_quark_)
